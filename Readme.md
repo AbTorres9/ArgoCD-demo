@@ -43,3 +43,5 @@ argocd app create guestbook
 --dest-server
 https://kubernetes.default.svc
 --dest-namespace default
+
+some random changes to check ArgoCD pipeline
